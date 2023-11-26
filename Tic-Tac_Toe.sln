@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tic-Tac_Toe", "Tic-Tac_Toe\Tic-Tac_Toe.vbproj", "{494832CA-1B5B-437E-B6F4-DF5BD8043F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494832CA-1B5B-437E-B6F4-DF5BD8043F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494832CA-1B5B-437E-B6F4-DF5BD8043F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494832CA-1B5B-437E-B6F4-DF5BD8043F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494832CA-1B5B-437E-B6F4-DF5BD8043F22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
